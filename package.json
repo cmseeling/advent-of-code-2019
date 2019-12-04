@@ -1,0 +1,27 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "https://adventofcode.com/2019",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmseeling/advent-of-code-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmseeling/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/cmseeling/advent-of-code-2019#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.14",
+    "lodash": "^4.17.15",
+    "tslib": "^1.10.0"
+  }
+}
